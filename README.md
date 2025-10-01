@@ -42,5 +42,5 @@ This project showcases the end-to-end creation of a CRM data pipeline using Pala
 ## 📬 Contact
 
 Created by **Vismaya Prakasan**  
-Final Year MSIS Student – University of Texas at Arlington  
+Graduate MSIS Student – University of Texas at Arlington  
 
