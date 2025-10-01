@@ -1,0 +1,31 @@
+# Project Summary: CRM Dataset Pipeline
+
+## Objective
+To create a unified and clean CRM dataset by merging raw company and person data, and visually analyze key insights using Foundry dashboards.
+
+## Dataset Columns (Final Output)
+
+- company_name
+- company_key
+- industry
+- website
+- revenue_in_millions
+- person_key
+- address
+- last_name
+- first_name
+- phone_number
+- email
+- title
+
+## Key Metrics Analyzed
+
+- Total Revenue by Industry
+- Count of Companies per Industry
+- Top 10 Companies by Revenue
+
+## Key Learnings
+
+- Built custom transforms and joins in Foundry
+- Deployed reusable output datasets
+- Developed a clean, interactive dashboard with multiple visualizations
