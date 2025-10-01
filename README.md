@@ -25,11 +25,11 @@ This project showcases the end-to-end creation of a CRM data pipeline using Pala
 
 ## 📊 Final Dashboard
 
-![CRM Dashboard](assets/dashboard_view.png)
+![CRM Dashboard](worshop_dashboard_img/CRM DATA  DASHBOARD.png)
 
 ## 🔄 Data Pipeline Flow
 
-![CRM Pipeline](assets/pipeline_view.png)
+![CRM Pipeline](data_pipeline/CRM DATA PIPELINE.png)
 
 ## 📁 Dataset Output
 
